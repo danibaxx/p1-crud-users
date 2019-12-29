@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danibaxx/p1-crud-users/issues"
   },
-  "homepage": "https://github.com/danibaxx/p1-crud-users#readme"
+  "homepage": "https://github.com/danibaxx/p1-crud-users#readme",
+  "dependencies": {
+    "create-react-app": "^3.3.0"
+  }
 }
